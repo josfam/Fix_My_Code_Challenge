@@ -1,0 +1,6 @@
+# original faulty files
+fault-code/
+
+# temp files
+*.swp
+
