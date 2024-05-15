@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 
+"""Represents a Square and related mathematical properties"""
+
 
 class Square:
+    """Represents a Square"""
 
     width = 0
     height = 0
